@@ -12,4 +12,4 @@
 <br />
 <p align="center">
 <h3>My Personal accounts:</h3>
- <a href="https://discord.com/users/505421040420257795" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white%22%3E</a>
+ <a href="https://discord.com/users/505421040420257795" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white%22%3E
