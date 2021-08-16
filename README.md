@@ -8,7 +8,7 @@
 
 ### Ben Yazılımcı Elodie Discord Botları Yapmaktayım Ücretli Şekilde Botlar yapmakdayım
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=adonciai" alt="adonciai" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Elodiejs" alt="Elodiejs" /> </p>
 <br />
 <p align="center">
 <h3>My Personal accounts:</h3>
