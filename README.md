@@ -1,5 +1,5 @@
 ### Hi There, I am  Elodie <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" height="20px"></h2>
-<a href="https://github.com/Elodiejs%22%3E
+
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
